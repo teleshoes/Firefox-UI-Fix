@@ -3,6 +3,12 @@
 
 /** Add your custom styles below **********************************************/
 
+@-moz-document domain(github.com) {
+    .data.highlight {
+        overflow-y: hidden;
+    }
+}
+
 html,body{
  scrollbar-color: #444444 #cccccc !important;
 }
