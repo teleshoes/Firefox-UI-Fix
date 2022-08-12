@@ -21,6 +21,10 @@
  * }
 */
 
+#webrtcIndicator {
+  display: none;
+}
+
 .tabbrowser-tab[selected] .tab-content {
   color: #000;
   background-color: #b0b8b8;
